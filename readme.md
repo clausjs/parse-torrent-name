@@ -1,4 +1,4 @@
-# parse-torrent-name [![Build Status](https://travis-ci.org/jzjzjzj/parse-torrent-name.svg?branch=master)](https://travis-ci.org/jzjzjzj/parse-torrent-name) [![Code Climate](https://codeclimate.com/github/jzjzjzj/parse-torrent-name/badges/gpa.svg)](https://codeclimate.com/github/jzjzjzj/parse-torrent-name)
+<!-- # parse-torrent-name [![Build Status](https://travis-ci.org/jzjzjzj/parse-torrent-name.svg?branch=master)](https://travis-ci.org/jzjzjzj/parse-torrent-name) [![Code Climate](https://codeclimate.com/github/jzjzjzj/parse-torrent-name/badges/gpa.svg)](https://codeclimate.com/github/jzjzjzj/parse-torrent-name) -->
 
 Parses torrent name of a movie or TV show.
 
@@ -6,8 +6,10 @@ Parses torrent name of a movie or TV show.
 
 - audio
 - codec
+- transcoding
 - container
 - episode
+- format
 - episodeName
 - excess
 - extended
