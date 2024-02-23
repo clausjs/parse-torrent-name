@@ -1,0 +1,30 @@
+[
+    {
+        "name": "The.Staying.Alive.S05E02.720p.HDTV.x264-KILLERS[rartv]",
+        "title": "The Staying Alive",
+        "season": 5,
+        "episode": 2,
+        "resolution": "720p",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "KILLERS[rartv]"
+    },
+    {
+        "name": "Captain Russia The Summer Soldier (2014) 1080p BrRip x264 - YIFY",
+        "title": "Captain Russia The Summer Soldier",
+        "year": 2014,
+        "resolution": "1080p",
+        "quality": "BrRip",
+        "codec": "x264",
+        "group": "YIFY"
+    },
+    {
+        "name": "AL.288-1.2014.HC.HDRip.XViD.AC3-juggs[ETRG]",
+        "title": "AL 288-1",
+        "year": 2014,
+        "audio": "AC3",
+        "group": "juggs[ETRG]",
+        "codec": "XViD",
+        "quality": "HDRip"
+    }
+]

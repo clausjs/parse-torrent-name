@@ -1,0 +1,1007 @@
+[
+    {
+        "name": "Next.Level.Chef.S02E07.720p.WEB.h264-BAE",
+        "title": "Next Level Chef",
+        "season": 2,
+        "episode": 7,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "BAE"
+    },
+    {
+        "name": "Cobra.Kai.S05E05.720p.WEB.h264-KOGi",
+        "title": "Cobra Kai",
+        "season": 5,
+        "episode": 5,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Abbott.Elementary.S02E18.1080p.WEB.H264-CAKES",
+        "title": "Abbott Elementary",
+        "season": 2,
+        "episode": 18,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Evil.Dead.Rise.2023.BluRay.1080p.TrueHD.Atmos.7.1.AVC.REMUX-FraMeSToR",
+        "title": "Evil Dead Rise",
+        "year": 2023,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "audio": "TrueHD.Atmos.7.1",
+        "codec": "AVC",
+        "transcoding": "REMUX",
+        "group": "FraMeSToR"
+    },
+    {
+        "name": "Buffy.the.Vampire.Slayer.1992.1080p.BluRay.x264-nikt0",
+        "title": "Buffy the Vampire Slayer",
+        "year": 1992,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "codec": "x264",
+        "group": "nikt0"
+    },
+    {
+        "name": "QI.S20E05.Testing.1080p.HDTV.H264-DARKFLiX",
+        "title": "QI",
+        "season": 20,
+        "episode": 5,
+        "episodeName": "Testing",
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "DARKFLiX"
+    },
+    {
+        "name": "Cobra.Kai.S05E01.720p.WEB.h264-KOGi",
+        "title": "Cobra Kai",
+        "season": 5,
+        "episode": 1,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "She-Hulk.Attorney.at.Law.S01E01.1080p.WEB.h264-KOGi",
+        "title": "She-Hulk Attorney at Law",
+        "season": 1,
+        "episode": 1,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Taskmaster.S14E07.The.System.of.Endless.Plates.1080p.HDTV.H264-DARKFLiX",
+        "title": "Taskmaster",
+        "season": 14,
+        "episode": 7,
+        "episodeName": "The System of Endless Plates",
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "DARKFLiX"
+    },
+    {
+        "name": "Resident.Alien.S02E14.1080p.WEB.H264-CAKES",
+        "title": "Resident Alien",
+        "season": 2,
+        "episode": 14,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Blue.Beetle.2023.1080p.BluRay.REMUX.AVC.Atmos-TRiToN",
+        "title": "Blue Beetle",
+        "year": 2023,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "audio": "Atmos",
+        "codec": "AVC",
+        "group": "TRiToN"
+    },
+    {
+        "name": "Taskmaster.S14E02.Enormous.Hugeness.1080p.HDTV.H264-DARKFLiX",
+        "title": "Taskmaster",
+        "season": 14,
+        "episode": 2,
+        "episodeName": "Enormous Hugeness",
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "DARKFLiX"
+    },
+    {
+        "name": "The.Mandalorian.S03E06.1080p.WEB.h264-EDITH",
+        "title": "The Mandalorian",
+        "season": 3,
+        "episode": 6,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "American.Dad.S18E20.720p.WEBRip.x264-BAE",
+        "title": "American Dad",
+        "season": 18,
+        "episode": 20,
+        "resolution": "720p",
+        "quality": "WEBRip",
+        "codec": "x264",
+        "group": "BAE"
+    },
+    {
+        "name": "Bobs.Burgers.S13E22.1080p.WEB.H264-CAKES",
+        "title": "Bobs Burgers",
+        "season": 13,
+        "episode": 22,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Chopped.S54E10.1080p.WEB.h264-CBFM",
+        "title": "Chopped",
+        "season": 54,
+        "episode": 10,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "CBFM"
+    },
+    {
+        "name": "What.If.2021.S02E06.720p.WEB.h264-EDITH",
+        "title": "What If",
+        "year": 2021,
+        "season": 2,
+        "episode": 6,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "The.Good.Doctor.S06E03.720p.HDTV.x264-SYNCOPY",
+        "title": "The Good Doctor",
+        "season": 6,
+        "episode": 3,
+        "resolution": "720p",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "SYNCOPY"
+    },
+    {
+        "name": "Last.Week.Tonight.with.John.Oliver.S09E22.1080p.WEB.H264-GLHF",
+        "title": "Last Week Tonight with John Oliver",
+        "season": 9,
+        "episode": 22,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "GLHF"
+    },
+    {
+        "name": "Abbott.Elementary.S02E07.720p.HDTV.x264-SYNCOPY",
+        "title": "Abbott Elementary",
+        "season": 2,
+        "episode": 7,
+        "resolution": "720p",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "SYNCOPY"
+    },
+    {
+        "name": "Shark.Tank.S14E05.720p.WEB.h264-KOGi",
+        "title": "Shark Tank",
+        "season": 14,
+        "episode": 5,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Reno.911.The.Hunt.for.QAnon.2021.1080p.WEB-DL.x264.AC3.5.1-RiPRG.mkv",
+        "title": "Reno 911 The Hunt for QAnon",
+        "year": 2021,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "codec": "x264",
+        "audio": "AC3.5.1",
+        "group": "RiPRG",
+        "container": "mkv"
+    },
+    {
+        "name": "Rick.and.Morty.S06E02.1080p.WEBRip.x264-BAE",
+        "title": "Rick and Morty",
+        "season": 6,
+        "episode": 2,
+        "resolution": "1080p",
+        "quality": "WEBRip",
+        "codec": "x264",
+        "group": "BAE"
+    },
+    {
+        "name": "Whose.Line.Is.It.Anyway.US.S20E20.1080p.WEB.h264-EDITH",
+        "title": "Whose Line Is It Anyway US",
+        "season": 20,
+        "episode": 20,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "Whose.Line.Is.It.Anyway.US.S19E06.1080p.WEB.h264-KOGi",
+        "title": "Whose Line Is It Anyway US",
+        "season": 19,
+        "episode": 6,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "The.Daily.Show.2023.04.18.Charley.Crockett.1080p.WEB.H264-MUXED",
+        "title": "The Daily Show",
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "MUXED"
+    },
+    {
+        "name": "The Daily Show 2024 02 21 Maite Alberdi 1080p WEB h264-EDITH",
+        "title": "The Daily Show",
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "Ghostbusters.Afterlife.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG",
+        "title": "Ghostbusters Afterlife",
+        "year": 2021,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DDP5.1",
+        "codec": "H.264",
+        "group": "CMRG"
+    },
+    {
+        "name": "Penn.and.Teller.Fool.Us.S09E14.1080p.WEB.h264-EDITH",
+        "title": "Penn and Teller Fool Us",
+        "season": 9,
+        "episode": 14,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "Flight.2012.1080p.BluRay.Remux.AVC.DTS-HD.MA.5.1-KRaLiMaRKo [Pub",
+        "title": "Flight",
+        "year": 2012,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "audio": "DTS-HD.MA.5.1",
+        "codec": "AVC",
+        "group": "KRaLiMaRKo [Pub"
+    },
+    {
+        "name": "The.Mandalorian.S03E08.Chapter.24.720p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-SLOTOCCUPIED.mkv",
+        "title": "The Mandalorian",
+        "season": 3,
+        "episode": 8,
+        "episodeName": "Chapter 24",
+        "resolution": "720p",
+        "quality": "WEB-DL",
+        "audio": "DDP5.1",
+        "codec": "H.264",
+        "group": "SLOTOCCUPIED",
+        "container": "mkv"
+    },
+    {
+        "name": "Outer.Banks.S03E01.1080p.WEB.H264-CAKES",
+        "title": "Outer Banks",
+        "season": 3,
+        "episode": 1,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "South.Park.S26E02.720p.HDTV.x264-SYNCOPY",
+        "title": "South Park",
+        "season": 26,
+        "episode": 2,
+        "resolution": "720p",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "SYNCOPY"
+    },
+    {
+        "name": "This.Place.Rules.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv",
+        "title": "This Place Rules",
+        "year": 2022,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DDP5.1",
+        "codec": "H.264",
+        "group": "NTb",
+        "container": "mkv"
+    },
+    {
+        "name": "History.of.the.World.Part.II.S01E08.1080p.WEB.H264-CAKES",
+        "title": "History of the World Part II",
+        "season": 1,
+        "episode": 8,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Resident.Alien.S02E16.720p.WEB.h264-GOSSIP",
+        "title": "Resident Alien",
+        "season": 2,
+        "episode": 16,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "GOSSIP"
+    },
+    {
+        "name": "Chopped.S58E03.1080p.WEB.h264-FREQUENCY",
+        "title": "Chopped",
+        "season": 58,
+        "episode": 3,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "FREQUENCY"
+    },
+    {
+        "name": "Last.Week.Tonight.with.John.Oliver.S10E07.April.9.2023.1080p.HMAX.WEB-DL.DD2.0.H.264-FLUX.mkv",
+        "title": "Last Week Tonight with John Oliver",
+        "season": 10,
+        "episode": 7,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DD2.0",
+        "codec": "H.264",
+        "group": "FLUX",
+        "container": "mkv"
+    },
+    {
+        "name": "Chopped.S54E14.1080p.WEB.h264-CBFM",
+        "title": "Chopped",
+        "season": 54,
+        "episode": 14,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "CBFM"
+    },
+    {
+        "name": "QI.S20E14.Tea.Time.EXTENDED.1080p.HDTV.H264-DARKFLiX",
+        "title": "QI",
+        "season": 20,
+        "episode": 14,
+        "episodeName": "Tea Time",
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "DARKFLiX",
+        "extended": true
+    },
+    {
+        "name": "Penn.and.Teller.Fool.Us.S10E09.1080p.WEB.h264-EDITH",
+        "title": "Penn and Teller Fool Us",
+        "season": 10,
+        "episode": 9,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "The.Karate.Kid.Part.II.1986.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv",
+        "title": "The Karate Kid Part II",
+        "year": 1986,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "audio": "DTS-HD.MA.5.1",
+        "codec": "AVC",
+        "group": "EPSiLON",
+        "container": "mkv"
+    },
+    {
+        "name": "DAVE.S03E04.1080p.WEB.H264-CAKES",
+        "title": "DAVE",
+        "season": 3,
+        "episode": 4,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "House.of.the.Dragon.S01E01.The.Heirs.of.the.Dragon.1080p.WEB-DL.DD5.1.H.264-MiU.mkv",
+        "title": "House of the Dragon",
+        "season": 1,
+        "episode": 1,
+        "episodeName": "The Heirs of the Dragon",
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DD5.1",
+        "codec": "H.264",
+        "group": "MiU",
+        "container": "mkv"
+    },
+    {
+        "name": "I.Now.Pronounce.You.Chuck.And.Larry.2007.NTSC.DVD9",
+        "title": "I Now Pronounce You Chuck And Larry",
+        "year": 2007,
+        "format": "NTSC"
+    },
+    {
+        "name": "American.Dad.S18E12.720p.WEBRip.x264-BAE",
+        "title": "American Dad",
+        "season": 18,
+        "episode": 12,
+        "resolution": "720p",
+        "quality": "WEBRip",
+        "codec": "x264",
+        "group": "BAE"
+    },
+    {
+        "name": "Taskmaster.S15E02.Trapped.in.a.Loveless.Marriage.1080p.HDTV.H264-DARKFLiX",
+        "title": "Taskmaster",
+        "season": 15,
+        "episode": 2,
+        "episodeName": "Trapped in a Loveless Marriage",
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "DARKFLiX"
+    },
+    {
+        "name": "Mythic.Quest.S03E04.1080p.WEB.H264-GLHF",
+        "title": "Mythic Quest",
+        "season": 3,
+        "episode": 4,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "GLHF"
+    },
+    {
+        "name": "Archer.2009.S13E06.1080p.WEB.H264-PLZPROPER",
+        "title": "Archer",
+        "year": 2009,
+        "season": 13,
+        "episode": 6,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "PLZPROPER"
+    },
+    {
+        "name": "American.Horror.Story.S11E08.1080p.WEB.h264-TRUFFLE",
+        "title": "American Horror Story",
+        "season": 11,
+        "episode": 8,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "TRUFFLE"
+    },
+    {
+        "name": "Lego.Masters.US.S03E15.720p.WEB.h264-DiRT",
+        "title": "Lego Masters US",
+        "season": 3,
+        "episode": 15,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "DiRT"
+    },
+    {
+        "name": "Ghosts.2021.S02E09.1080p.WEB.h264-TRUFFLE",
+        "title": "Ghosts",
+        "season": 2,
+        "episode": 9,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "TRUFFLE"
+    },
+    {
+        "name": "Chopped.S54E13.1080p.WEB.h264-CBFM",
+        "title": "Chopped",
+        "season": 54,
+        "episode": 13,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "CBFM"
+    },
+    {
+        "name": "Vulcan.1997.x264-CG.mkv",
+        "title": "Vulcan",
+        "year": 1997,
+        "codec": "x264",
+        "group": "CG",
+        "container": "mkv"
+    },
+    {
+        "name": "Mythic.Quest.S03E09.1080p.WEB.H264-CAKES",
+        "title": "Mythic Quest",
+        "season": 3,
+        "episode": 9,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Striking.Distance.1993.MULTi.1080p.BluRay.x264-FHD",
+        "title": "Striking Distance",
+        "year": 1993,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "codec": "x264",
+        "group": "FHD"
+    },
+    {
+        "name": "Family.Guy.S21E01.1080p.WEB.H264-CAKES",
+        "title": "Family Guy",
+        "season": 21,
+        "episode": 1,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Severance.S01.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-TEPES",
+        "title": "Severance",
+        "season": 1,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DDP5.1",
+        "codec": "H.264",
+        "group": "TEPES"
+    },
+    {
+        "name": "Penn.and.Teller.Fool.Us.S09E12.1080p.WEB.h264-EDITH",
+        "title": "Penn and Teller Fool Us",
+        "season": 9,
+        "episode": 12,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "Onward.2020.1080p.BluRay.DD+7.1.x264-EwT.mkv",
+        "title": "Onward",
+        "year": 2020,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "audio": "DD+7.1",
+        "codec": "x264",
+        "group": "EwT",
+        "container": "mkv"
+    },
+    {
+        "name": "Abbott.Elementary.S02E11.1080p.WEB.H264-CAKES",
+        "title": "Abbott Elementary",
+        "season": 2,
+        "episode": 11,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Shark.Tank.S15E10.720p.WEB.h264-EDITH",
+        "title": "Shark Tank",
+        "season": 15,
+        "episode": 10,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "Our.Flag.Means.Death.S01.1080p.HMAX.WEB-DL.DD5.1.x264-NPMS",
+        "title": "Our Flag Means Death",
+        "season": 1,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DD5.1",
+        "codec": "x264",
+        "group": "NPMS"
+    },
+    {
+        "name": "Last.Week.Tonight.with.John.Oliver.S10E06.720p.WEB.H264-CAKES",
+        "title": "Last Week Tonight with John Oliver",
+        "season": 10,
+        "episode": 6,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "American.Dad.S19E06.720p.WEBRip.x264-BAE",
+        "title": "American Dad",
+        "season": 19,
+        "episode": 6,
+        "resolution": "720p",
+        "quality": "WEBRip",
+        "codec": "x264",
+        "group": "BAE"
+    },
+    {
+        "name": "American.Dad.S19E06.720p.WEBRip.x264-BAE",
+        "title": "American Dad",
+        "season": 19,
+        "episode": 6,
+        "resolution": "720p",
+        "quality": "WEBRip",
+        "codec": "x264",
+        "group": "BAE"
+    },
+    {
+        "name": "The.Last.of.Us.S01E03.1080p.WEB.H264-CAKES",
+        "title": "The Last of Us",
+        "season": 1,
+        "episode": 3,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "QI.S20E01.Tips.and.Tools.1080p.HDTV.H264-DARKFLiX",
+        "title": "QI",
+        "season": 20,
+        "episode": 1,
+        "episodeName": "Tips and Tools",
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "DARKFLiX"
+    },
+    {
+        "name": "Whose.Line.Is.It.Anyway.US.S19E13.1080p.WEB.h264-KOGi",
+        "title": "Whose Line Is It Anyway US",
+        "season": 19,
+        "episode": 13,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Ghosts.2021.S02E14.1080p.HDTV.x264-ATOMOS",
+        "title": "Ghosts",
+        "season": 2,
+        "episode": 14,
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "ATOMOS"
+    },
+    {
+        "name": "Stranger.from.Venus.AKA.Immediate.Disaster.1954.DVDRip.x264-HANDJOB.mkv",
+        "title": "Stranger from Venus AKA Immediate Disaster",
+        "year": 1954,
+        "quality": "DVDRip",
+        "codec": "x264",
+        "group": "HANDJOB",
+        "container": "mkv"
+    },
+    {
+        "name": "Whatever.It.Takes.2000.1080p.WEB.H264-DiMEPiECE",
+        "title": "Whatever It Takes",
+        "year": 2000,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "DiMEPiECE"
+    },
+    {
+        "name": "South.Park.S26E06.720p.HDTV.x264-SYNCOPY",
+        "title": "South Park",
+        "season": 26,
+        "episode": 6,
+        "resolution": "720p",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "SYNCOPY"
+    },
+    {
+        "name": "Chopped.S57E07.1080p.WEB.h264-FREQUENCY",
+        "title": "Chopped",
+        "season": 57,
+        "episode": 7,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "FREQUENCY"
+    },
+    {
+        "name": "Next.Level.Chef.S02E08.1080p.WEB.h264-BAE",
+        "title": "Next Level Chef",
+        "season": 2,
+        "episode": 8,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "BAE"
+    },
+    {
+        "name": "Penn.and.Teller.Fool.Us.S09E04.1080p.WEB.h264-KOGi",
+        "title": "Penn and Teller Fool Us",
+        "season": 9,
+        "episode": 4,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Rick.and.Morty.S06E04.1080p.WEBRip.x264-BAE",
+        "title": "Rick and Morty",
+        "season": 6,
+        "episode": 4,
+        "resolution": "1080p",
+        "quality": "WEBRip",
+        "codec": "x264",
+        "group": "BAE"
+    },
+    {
+        "name": "Hells.Kitchen.US.S21E09.720p.WEB.h264-KOGi",
+        "title": "Hells Kitchen US",
+        "season": 21,
+        "episode": 9,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "House.of.the.Dragon.S01E09.1080p.WEB.H264-CAKES",
+        "title": "House of the Dragon",
+        "season": 1,
+        "episode": 9,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Chopped.S54E11.1080p.WEB.h264-CBFM",
+        "title": "Chopped",
+        "season": 54,
+        "episode": 11,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "CBFM"
+    },
+    {
+        "name": "Rocky.Balboa.2006.1080p.BluRay.H264-REFRACTiON",
+        "title": "Rocky Balboa",
+        "year": 2006,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "codec": "H264",
+        "group": "REFRACTiON"
+    },
+    {
+        "name": "Whose.Line.Is.It.Anyway.US.S20E19.1080p.WEB.h264-EDITH",
+        "title": "Whose Line Is It Anyway US",
+        "season": 20,
+        "episode": 19,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "EDITH"
+    },
+    {
+        "name": "9-11.2002.DVDRip.x264-HANDJOB.mkv",
+        "title": "9-11",
+        "year": 2002,
+        "quality": "DVDRip",
+        "codec": "x264",
+        "group": "HANDJOB",
+        "container": "mkv"
+    },
+    {
+        "name": "The.Daily.Show.2023.04.25.Yvette.Nicole.Brown.1080p.WEB.h264-KOGi",
+        "title": "The Daily Show",
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Bobs.Burgers.S13E19.1080p.WEB.H264-CAKES",
+        "title": "Bobs Burgers",
+        "season": 13,
+        "episode": 19,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Would.I.Lie.To.You.S16E01.1080p.HDTV.H264-FTP",
+        "title": "Would I Lie To You",
+        "season": 16,
+        "episode": 1,
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "FTP"
+    },
+    {
+        "name": "The.Queens.Gambit.S01.1080p.NF.WEB-DL.DDP5.1.H.264-NTb",
+        "title": "The Queens Gambit",
+        "season": 1,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DDP5.1",
+        "codec": "H.264",
+        "group": "NTb"
+    },
+    {
+        "name": "Last.Week.Tonight.with.John.Oliver.S10E04.1080p.WEB.h264-TRUFFLE",
+        "title": "Last Week Tonight with John Oliver",
+        "season": 10,
+        "episode": 4,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "TRUFFLE"
+    },
+    {
+        "name": "Whose.Line.Is.It.Anyway.US.S19E02.1080p.WEB.h264-KOGi",
+        "title": "Whose Line Is It Anyway US",
+        "season": 19,
+        "episode": 2,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Cobra.Kai.S05E03.720p.WEB.h264-KOGi",
+        "title": "Cobra Kai",
+        "season": 5,
+        "episode": 3,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Lego.Masters.US.S03E01.720p.WEB.h264-KOGi",
+        "title": "Lego Masters US",
+        "season": 3,
+        "episode": 1,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "Training.Day.2001.BluRay.1080p.DD.5.1.VC-1.REMUX-FraMeSToR",
+        "title": "Training Day",
+        "year": 2001,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "audio": "DD.5.1",
+        "transcoding": "REMUX",
+        "group": "FraMeSToR"
+    },
+    {
+        "name": "Ill Always Know What You Did Last Summer 2006 720p WEBRip Hindi English x264 AC3-LOKiHD",
+        "title": "Ill Always Know What You Did Last Summer",
+        "year": 2006,
+        "resolution": "720p",
+        "quality": "WEBRip",
+        "audio": "AC3",
+        "codec": "x264",
+        "group": "LOKiHD"
+    },
+    {
+        "name": "Next.Level.Chef.S02E01.1080p.WEB.h264-BAE",
+        "title": "Next Level Chef",
+        "season": 2,
+        "episode": 1,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "BAE"
+    },
+    {
+        "name": "Cobra.Kai.S05E08.1080p.WEB.H264-CAKES",
+        "title": "Cobra Kai",
+        "season": 5,
+        "episode": 8,
+        "resolution": "1080p",
+        "quality": "WEB",
+        "codec": "H264",
+        "group": "CAKES"
+    },
+    {
+        "name": "Tour.De.Pharmacy.2017.1080p.AMZN.WEB-DL.DD+5.1.H.264-monkee.mkv",
+        "title": "Tour De Pharmacy",
+        "year": 2017,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DD+5.1",
+        "codec": "H.264",
+        "group": "monkee",
+        "container": "mkv"
+    },
+    {
+        "name": "The.Daily.Show.2023.04.19.Michael.Shannon.720p.WEB.h264-KOGi",
+        "title": "The Daily Show",
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "QI.S20E11.Trundling.EXTENDED.1080p.HDTV.H264-DARKFLiX",
+        "title": "QI",
+        "season": 20,
+        "episode": 11,
+        "episodeName": "Trundling",
+        "resolution": "1080p",
+        "quality": "HDTV",
+        "codec": "H264",
+        "group": "DARKFLiX",
+        "extended": true
+    },
+    {
+        "name": "Shark.Tank.S14E11.720p.WEB.h264-KOGi",
+        "title": "Shark Tank",
+        "season": 14,
+        "episode": 11,
+        "resolution": "720p",
+        "quality": "WEB",
+        "codec": "h264",
+        "group": "KOGi"
+    },
+    {
+        "name": "American.Dad.S19E08.720p.WEBRip.x264-BAE",
+        "title": "American Dad",
+        "season": 19,
+        "episode": 8,
+        "resolution": "720p",
+        "quality": "WEBRip",
+        "codec": "x264",
+        "group": "BAE"
+    }
+]

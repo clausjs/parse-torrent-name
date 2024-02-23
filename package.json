@@ -1,24 +1,23 @@
 {
   "name": "parse-torrent-name",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "description": "Parses torrent name of a movie or TV show.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jzjzjzj/parse-torrent-name.git"
+    "url": "git://github.com/clausj/parse-torrent-name.git"
   },
-  "homepage": "https://github.com/jzjzjzj/parse-torrent-name",
+  "homepage": "https://github.com/clausjs/parse-torrent-name",
   "bugs": {
-    "url": "https://github.com/jzjzjzj/parse-torrent-name/issues"
+    "url": "https://github.com/clausjs/parse-torrent-name/issues"
   },
-  "keywords": [
-    "torrent",
-    "parse torrent name"
-  ],
   "devDependencies": {
-    "tape": "^3.0.1",
-    "tap-spec": "^1.0.1"
+    "tap-spec": "^1.0.1",
+    "tape": "^3.0.1"
   },
   "scripts": {
-    "test": "tape test.js | tap-spec"
+    "test": "tape test/test.js | tap-spec"
+  },
+  "dependencies": {
+    "ajv": "^8.12.0"
   }
 }
