@@ -1,0 +1,45 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "title": {
+                "type": "string"
+            },
+            "season": {
+                "type": "number"
+            },
+            "episode": {
+                "type": "number"
+            },
+            "resolution": {
+                "type": "string"
+            },
+            "quality": {
+                "type": "string"
+            },
+            "codec": {
+                "type": "string"
+            },
+            "audio": {
+                "type": "string"
+            },
+            "group": {
+                "type": "string"
+            },
+            "year": {
+                "type": "number"
+            },
+            "container": {
+                "type": "string"
+            },
+            "transcoding": {
+                "type": "string"
+            }
+        },
+        "required": [ "name", "title" ]
+    }
+}
