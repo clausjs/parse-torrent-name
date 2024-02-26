@@ -28,6 +28,7 @@
     },
     {
         "name": "The Big Bang Theory S08E06 HDTV XviD-LOL [eztv]",
+        "title": "The Big Bang Theory",
         "season": 8,
         "episode": 6,
         "quality": "HDTV",
@@ -40,27 +41,33 @@
     },
     {
         "name": "Hercules.2014.EXTENDED.1080p.WEB-DL.DD5.1.H264-RARBG",
+        "title": "Hercules",
         "extended": true,
         "quality": "WEB-DL",
         "audio": "DD5.1"
     },
     {
         "name": "Hercules.2014.EXTENDED.HDRip.XViD-juggs[ETRG]",
+        "title": "Hercules",
         "extended": true
     },
     {
         "name": "Hercules (2014) WEBDL DVDRip XviD-MAX",
+        "title": "Hercules",
         "quality": "WEBDL DVDRip"
     },
     {
         "name": "WWE Hell in a Cell 2014 PPV WEB-DL x264-WD -={SPARROW}=-",
+        "title": "WWE Hell in a Cell",
         "quality": "PPV WEB-DL",
         "group": "WD -={SPARROW}=-"
     },
     {
         "name": "UFC.179.PPV.HDTV.x264-Ebi[rartv]",
         "title": "UFC 179",
-        "quality": "PPV.HDTV"
+        "quality": "PPV.HDTV",
+        "codec": "x264",
+        "group": "Ebi[rartv]"
     },
     {
         "name": "Marvels Agents of S H I E L D S02E05 HDTV x264-KILLERS [eztv]",
@@ -72,6 +79,8 @@
     },
     {
         "name": "Guardians Of The Galaxy 2014 R6 720p HDCAM x264-JYK",
+        "title": "Guardians Of The Galaxy",
+        "year": 2014,
         "region": "R6",
         "quality": "HDCAM"
     },
@@ -86,23 +95,30 @@
         "title": "Marvels Agents of S.H.I.E.L.D."
     },
     {
-        "name": "Guardians of the Galaxy (CamRip / 2014)"
+        "name": "Guardians of the Galaxy (CamRip / 2014)",
+        "title": "Guardians of the Galaxy"
     },
     {
         "name": "The.Walking.Dead.S05E03.1080p.WEB-DL.DD5.1.H.264-Cyphanix[rartv]",
+        "title": "The Walking Dead",
         "codec": "H.264"
     },
     {
         "name": "Brave.2012.R5.DVDRip.XViD.LiNE-UNiQUE",
+        "title": "Brave",
         "region": "R5",
         "audio": "LiNE"
     },
     {
         "name": "Lets.Be.Cops.2014.BRRip.XViD-juggs[ETRG]",
+        "title": "Lets Be Cops",
+        "year": 2014,
         "quality": "BRRip"
     },
     {
         "name": "These.Final.Hours.2013.WBBRip XViD",
+        "title": "These Final Hours",
+        "year": 2013,
         "quality": "WBBRip"
     },
     {
@@ -113,27 +129,58 @@
     },
     {
         "name": "Annabelle.2014.HC.HDRip.XViD.AC3-juggs[ETRG]",
+        "title": "Annabelle",
         "hardcoded": true,
         "audio": "AC3"
     },
     {
         "name": "Lucy.2014.HC.HDRip.XViD-juggs[ETRG]",
+        "title": "Lucy",
+        "year": 2014,
+        "quality": "HDRip",
+        "codec": "XViD",
+        "group": "juggs[ETRG]",
         "hardcoded": true
     },
     {
-        "name": "The Flash 2014 S01E04 HDTV x264-FUM[ettv]"
+        "name": "The Flash 2014 S01E04 HDTV x264-FUM[ettv]",
+        "title": "The Flash",
+        "season": 1,
+        "episode": 4,
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "FUM[ettv]"
     },
     {
-        "name": "South Park S18E05 HDTV x264-KILLERS [eztv]"
+        "name": "South Park S18E05 HDTV x264-KILLERS [eztv]",
+        "title": "South Park",
+        "season": 18,
+        "episode": 5,
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "KILLERS [eztv]"
     },
     {
-        "name": "The Flash 2014 S01E03 HDTV x264-LOL[ettv]"
+        "name": "The Flash 2014 S01E03 HDTV x264-LOL[ettv]",
+        "title": "The Flash",
+        "season": 1,
+        "episode": 3,
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "LOL[ettv]"
     },
     {
-        "name": "The Flash 2014 S01E01 HDTV x264-LOL[ettv]"
+        "name": "The Flash 2014 S01E01 HDTV x264-LOL[ettv]",
+        "title": "The Flash",
+        "season": 1,
+        "episode": 1,
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "LOL[ettv]"
     },
     {
         "name": "Lucy 2014 Dual-Audio WEBRip 1400Mb",
+        "title": "Lucy",
         "audio": "Dual-Audio",
         "garbage": "1400Mb"
     },
@@ -144,10 +191,17 @@
     },
     {
         "name": "Teenage Mutant Ninja Turtles (unknown_release_type / 2014)",
+        "title": "Teenage Mutant Ninja Turtles",
         "excess": "unknown_release_type"
     },
     {
         "name": "The Simpsons S26E05 HDTV x264 PROPER-LOL [eztv]",
+        "title": "The Simpsons",
+        "season": 26,
+        "episode": 5,
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "LOL [eztv]",
         "proper": true
     },
     {
@@ -157,85 +211,174 @@
     },
     {
         "name": "Two and a Half Men S12E01 HDTV x264 REPACK-LOL [eztv]",
+        "title": "Two and a Half Men",
+        "season": 12,
+        "episode": 1,
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "LOL [eztv]",
         "repack": true
     },
     {
         "name": "Dinosaur 13 2014 WEBrip XviD AC3 MiLLENiUM",
+        "title": "Dinosaur 13",
         "quality": "WEBrip",
+        "codec": "XviD",
         "audio": "AC3",
         "group": "MiLLENiUM"
     },
     {
         "name": "Teenage.Mutant.Ninja.Turtles.2014.HDRip.XviD.MP3-RARBG",
-        "audio": "MP3"
+        "title": "Teenage Mutant Ninja Turtles",
+        "quality": "HDRip",
+        "codec": "XviD",
+        "audio": "MP3",
+        "group": "RARBG"
     },
     {
         "name": "Dawn.Of.The.Planet.of.The.Apes.2014.1080p.WEB-DL.DD51.H264-RARBG",
-        "audio": "DD51"
+        "title": "Dawn Of The Planet of The Apes",
+        "year": 2014,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "DD51",
+        "codec": "H264",
+        "group": "RARBG"
     },
     {
         "name": "Teenage.Mutant.Ninja.Turtles.2014.720p.HDRip.x264.AC3.5.1-RARBG",
-        "audio": "AC3.5.1"
+        "title": "Teenage Mutant Ninja Turtles",
+        "year": 2014,
+        "resolution": "720p",
+        "quality": "HDRip",
+        "audio": "AC3.5.1",
+        "codec": "x264",
+        "group": "RARBG"
     },
     {
         "name": "Gotham.S01E05.Viper.WEB-DL.x264.AAC",
+        "title": "Gotham",
+        "season": 1,
+        "episode": 5,
         "episodeName": "Viper",
-        "audio": "AAC"
+        "audio": "AAC",
+        "quality": "WEB-DL",
+        "codec": "x264"
     },
     {
         "name": "Into.The.Storm.2014.1080p.WEB-DL.AAC2.0.H264-RARBG",
-        "audio": "AAC2.0"
+        "title": "Into The Storm",
+        "year": 2014,
+        "resolution": "1080p",
+        "quality": "WEB-DL",
+        "audio": "AAC2.0",
+        "codec": "H264",
+        "group": "RARBG"
     },
     {
         "name": "Lucy 2014 Dual-Audio 720p WEBRip",
-        "audio": "Dual-Audio"
+        "title": "Lucy",
+        "year": 2014,
+        "resolution": "720p",
+        "audio": "Dual-Audio",
+        "quality": "WEBRip"
     },
     {
         "name": "Into The Storm 2014 1080p BRRip x264 DTS-JYK",
-        "audio": "DTS"
+        "title": "Into The Storm",
+        "year": 2014,
+        "resolution": "1080p",
+        "quality": "BRRip",
+        "codec": "x264",
+        "audio": "DTS",
+        "group": "JYK"
     },
     {
         "name": "Sin.City.A.Dame.to.Kill.For.2014.1080p.BluRay.x264-SPARKS",
-        "quality": "BluRay"
+        "title": "Sin City A Dame to Kill For",
+        "year": 2014,
+        "resolution": "1080p",
+        "quality": "BluRay",
+        "codec": "x264",
+        "group": "SPARKS"
     },
     {
         "name": "WWE Monday Night Raw 3rd Nov 2014 HDTV x264-Sir Paul",
         "title": "WWE Monday Night Raw",
-        "garbage": "3rd Nov"
+        "quality": "HDTV",
+        "codec": "x264",
+        "garbage": "3rd Nov",
+        "group": "Sir Paul"
     },
     {
         "name": "Jack.And.The.Cuckoo-Clock.Heart.2013.BRRip XViD",
-        "title": "Jack And The Cuckoo-Clock Heart"
+        "title": "Jack And The Cuckoo-Clock Heart",
+        "year": 2013,
+        "quality": "BRRip",
+        "codec": "XViD"
     },
     {
         "name": "WWE Hell in a Cell 2014 HDTV x264 SNHD",
+        "title": "WWE Hell in a Cell",
+        "year": 2014,
+        "quality": "HDTV",
+        "codec": "x264",
         "group": "SNHD"
     },
     {
         "name": "Dracula.Untold.2014.TS.XViD.AC3.MrSeeN-SiMPLE",
+        "title": "Dracula Untold",
+        "year": 2014,
+        "quality": "TS",
+        "codec": "XViD",
+        "audio": "AC3",
         "group": "MrSeeN-SiMPLE"
     },
     {
         "name": "The Missing 1x01 Pilot HDTV x264-FoV [eztv]",
-        "episodeName": "Pilot"
+        "title": "The Missing",
+        "season": 1,
+        "episode": 1,
+        "episodeName": "Pilot",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "FoV [eztv]"
     },
     {
         "name": "Doctor.Who.2005.8x11.Dark.Water.720p.HDTV.x264-FoV[rartv]",
+        "title": "Doctor Who",
         "season": 8,
         "episode": 11,
-        "episodeName": "Dark Water"
+        "episodeName": "Dark Water",
+        "resolution": "720p",
+        "quality": "HDTV",
+        "codec": "x264",
+        "group": "FoV[rartv]"
     },
     {
         "name": "Gotham.S01E07.Penguins.Umbrella.WEB-DL.x264.AAC",
-        "episodeName": "Penguins Umbrella"
+        "title": "Gotham",
+        "season": 1,
+        "episode": 7,
+        "episodeName": "Penguins Umbrella",
+        "quality": "WEB-DL",
+        "codec": "x264",
+        "audio": "AAC"
     },
     {
         "name": "One Shot [2014] DVDRip XViD-ViCKY",
-        "title": "One Shot"
+        "title": "One Shot",
+        "quality": "DVDRip",
+        "codec": "XViD",
+        "group": "ViCKY"
     },
     {
         "name": "The Shaukeens 2014 Hindi (1CD) DvDScr x264 AAC...Hon3y",
+        "title": "The Shaukeens",
+        "year": 2014,
         "quality": "DvDScr",
+        "audio": "AAC",
+        "codec": "x264",
         "excess": [
             "Hindi",
             "1CD"
@@ -243,6 +386,7 @@
     },
     {
         "name": "The Shaukeens (2014) 1CD DvDScr Rip x264 [DDR]",
+        "title": "The Shaukeens",
         "quality": "DvDScr",
         "garbage": "Rip",
         "group": "[DDR]",
@@ -250,28 +394,48 @@
     },
     {
         "name": "Annabelle.2014.1080p.PROPER.HC.WEBRip.x264.AAC.2.0-RARBG",
+        "title": "Annabelle",
         "audio": "AAC.2.0",
-        "group": "RARBG"
+        "quality": "WEBRip",
+        "group": "RARBG",
+        "proper": true,
+        "hardcoded": true
     },
     {
         "name": "Interstellar (2014) CAM ENG x264 AAC-CPG",
+        "title": "Interstellar",
+        "year": 2014,
         "quality": "CAM",
+        "codec": "x264",
+        "audio": "AAC",
+        "group": "CPG",
         "excess": "ENG"
     },
     {
         "name": "Guardians of the Galaxy (2014) Dual Audio DVDRip AVI",
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "quality": "DVDRip",
         "audio": "Dual Audio",
         "container": "AVI"
     },
     {
         "name": "Eliza Graves (2014) Dual Audio WEB-DL 720p MKV x264",
+        "title": "Eliza Graves",
+        "year": 2014,
+        "quality": "WEB-DL",
+        "audio": "Dual Audio",
+        "resolution": "720p",
+        "codec": "x264",
         "container": "MKV"
     },
     {
         "name": "WWE Monday Night Raw 2014 11 10 WS PDTV x264-RKOFAN1990 -={SPARR",
+        "title": "WWE Monday Night Raw",
         "widescreen": true,
         "quality": "PDTV",
         "group": "RKOFAN1990 -={SPARR",
+        "codec": "x264",
         "excess": [
             "11",
             "10"
@@ -358,6 +522,7 @@
         "audio": "AC3",
         "group": "juggs[ETRG]",
         "codec": "XViD",
-        "quality": "HDRip"
+        "quality": "HDRip",
+        "hardcoded": true
     }
 ]

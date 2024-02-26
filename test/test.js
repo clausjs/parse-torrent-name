@@ -1,5 +1,8 @@
 'use strict';
 
+let skipAdditional = false;
+if (Boolean(process.env.NO_ADDITIONAL)) skipAdditional = true; 
+
 const Ajv = require('ajv');
 var ptn = require('..');
 var tape = require('tape');
@@ -12,22 +15,32 @@ const testDataValidation = ajv.compile(require('../schema/test-data-schema.json'
 const data = require('./data.json');
 
 tape('data.json is valid', function(t) {
-  t.equal(testDataValidation(data), true);
+  const validJsonData = testDataValidation(data);
+  if (!validJsonData) {
+    testDataValidation.errors.forEach((error) => {
+      t.fail(`${error.message} at ${error.instancePath}: ${error.schemaPath}.`);
+    });
+  } else t.pass('data.json is valid.');
   t.end();
 });
 
-
 let torrents;
-if (existsSync(path.join(__dirname, './additional-data.json'))) {
+if (!skipAdditional && existsSync(path.join(__dirname, './additional-data.json'))) {
   const additional = require('./additional-data.json');
   
   tape('additional-data.json is valid', function(t) {
-    t.equal(testDataValidation(additional), true);
+    const validAdditionalData = testDataValidation(additional);
+    if (!validAdditionalData) {
+      testDataValidation.errors.forEach((error) => {
+        t.fail(`${error.message} at ${error.instancePath}: ${error.schemaPath}.`);
+      });
+    } else t.pass('additional-data.json is valid.');
     t.end();
   });
 
   torrents = data.concat(additional);
-} else torrents = data;
+} 
+else torrents = data;
 
 
 torrents.forEach(function(torrent) {
@@ -38,19 +51,17 @@ torrents.forEach(function(torrent) {
     var key, testMessage;
 
     for(key in torrent) {
-      if(torrent.hasOwnProperty(key)) {
-        if(key === 'name') {
-          continue;
-        }
-
-        testMessage = key + ': ' + JSON.stringify(torrent[key]);
-
-        test[Array.isArray(torrent[key]) ? 'deepEqual' : 'equal'](
-          parts[key],
-          torrent[key],
-          testMessage
-        );
+      if(key === 'name') {
+        continue;
       }
+
+      testMessage = key + ': ' + JSON.stringify(torrent[key]);
+
+      test[Array.isArray(torrent[key]) ? 'deepEqual' : 'equal'](
+        parts[key],
+        torrent[key],
+        testMessage
+      );
     }
 
     test.end();

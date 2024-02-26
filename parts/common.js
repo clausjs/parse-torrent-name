@@ -7,16 +7,16 @@ var core = require('../core');
  * In case of two groups - 1st is raw, 2nd is clean.
  */
 var patterns = {
-  season: /([Ss]{1}([0-9]{1,2}))[Eex\.]/,
-  episode: /([Eex]([0-9]{2})(?:[^0-9]|$))/,
+  season: /([Ss]?([0-9]{1,2}))[Eex]|((?<=[\.\- ])[Ss]{1}([0-9]{1,2})(?=[\.\- ]))/,
+  episode: /([Eex]{1}([0-9]{2})(?:[^0-9]|$))/,
   format: /NTSC|PAL|SECAM/,
-  year: /([\[\(]?((?:19[0-9]|20[0-9])[0-9])[\]\)]?)/,
+  year: /([\[\(]?((?:19[0-9]|20[012])[0-9])[\]\)]?)/,
   resolution: /(([0-9]{3,4}p))[^M]/,
-  quality: /(?:PPV.)?[HP]DTV|(?:HD)?CAM|B[rR]Rip|WEBRip|(?:PPV )?WEB-?DL(?: DVDRip)?|WEB|TS|H[dD]Rip|DVDRip|DVDRiP|DVDRIP|DVD[.\- ]?(?:5|9|10)?|CamRip|W[EB]B[rR]ip|[Bb]lu[Rr]ay|DvDScr|hdtv/,
+  quality: /(?:PPV.)?[HP]DTV|(?:HD)?CAM|B[rR]Rip|(?:PPV )?WEB-?DL(?: DVDRip)?|TS|H[dD]Rip|DVDRip|DVDRiP|DVDRIP|DVD[.\- ]?(?:5|9|10)?|CamRip|W[EB]B[rR]ip|WEB|[Bb]lu[Rr]ay|DvDScr|hdtv/,
   codec: /xvid|x264|x265|h.?264|AVC/i,
-  audio: /MP3|DDP?[+\.]?[57].?1|DD2.?0|Dual[- ]Audio|LiNE|DTS(?:[.\- ])?(?:[Hh][Dd][.\- ]?)?(?:[Mm][Aa][.\- ]?)?(?:[567].1)?|AAC(?:.?2.0)?|FLAC(?:.?2.0)?|AC3(?:.5.1)?|(?:True[Hh][Dd].)?Atmos[. ]?(?:[579]\.1)?/,
+  audio: /MP3|DDP?[+\.]?[57].?1|DD2.?0|Dual[- ]Audio|LiNE|DTS(?:[.\- ]?)?(?:[Hh][Dd][.\- ]?)?(?:[Mm][Aa][.\- ]?)?(?:[567].1)?|AAC(?:.?2.0)?|FLAC(?:.?2.0)?|AC3(?:.5.1)?|(?:True[Hh][Dd].)?Atmos[. ]?(?:[579]\.1)?/,
   transcoding: /REMUX/i,
-  container: /\.(MKV|AVI)?$/i,
+  container: /[\. ](MKV|AVI)[ $]?/i,
   group: /(- ?([^-]+(?:-={[^-]+-?$)?))$/,
   region: /R[0-9]/,
   extended: /EXTENDED/,
@@ -60,6 +60,10 @@ core.on('start', function() {
       clean: match[1] ? 2 : 0
     };
 
+    if (key === 'container' && !match[index.clean]) {
+      index.clean = index.raw;
+    }
+
     if(types[key] && types[key] === 'boolean') {
       clean = true;
     }
@@ -67,6 +71,15 @@ core.on('start', function() {
       clean = match[index.clean];
 
       if(types[key] && types[key] === 'integer') {
+        /**
+         * Some torrents are entire seasons and are named with <Show Name> S01
+         * The old regex would only capture seasons when there was an included episode
+         * The new regex will capture the S01 but needs to trim the S before parsing
+         */
+        if (key === 'season' && clean[0].match(/[Ss]/)) {
+          clean = clean.slice(1);
+        }
+
         clean = parseInt(clean, 10);
       }
     }
@@ -80,7 +93,7 @@ core.on('start', function() {
         key = 'episodeName';
       }
 
-      /**
+       /**
        * If the container name is at the end of the string it will get parsed with a group name ("<group>.mkv")
        * This will remove the group from the string if matches are found against the container pattern.
        */
@@ -92,8 +105,14 @@ core.on('start', function() {
       }
     }
 
-    if (key === 'container') {
-      clean = match[index.raw];
+    /**
+    * In an effort to catch any version of DTS which includes HD Master Audio
+    * we can end up with trailing hyphens because DTS-HD-MA... needs to be captured
+    * which means DTS-/DTS-HD/DTS-HD-MA- will also capture. 
+    * This will shave off the trailing separator 
+    */
+    if (key === 'audio' && clean[clean.length - 1].match(/[\-\. ]/g)) {
+      clean = clean.slice(0, -1);
     }
 
     part = {
