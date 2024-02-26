@@ -1,5 +1,8 @@
 <!-- # parse-torrent-name [![Build Status](https://travis-ci.org/jzjzjzj/parse-torrent-name.svg?branch=master)](https://travis-ci.org/jzjzjzj/parse-torrent-name) [![Code Climate](https://codeclimate.com/github/jzjzjzj/parse-torrent-name/badges/gpa.svg)](https://codeclimate.com/github/jzjzjzj/parse-torrent-name) -->
 
+# Torrent Parser (parse torrent name fork)
+![Build Status](https://github.com/clausjs/parse-torrent-name/actions/workflows/node.js.yml/badge.svg)
+
 Parses torrent name of a movie or TV show.
 
 **Possible parts extracted:**
