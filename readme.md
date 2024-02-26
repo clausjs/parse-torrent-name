@@ -1,7 +1,5 @@
-<!-- # parse-torrent-name [![Build Status](https://travis-ci.org/jzjzjzj/parse-torrent-name.svg?branch=master)](https://travis-ci.org/jzjzjzj/parse-torrent-name) [![Code Climate](https://codeclimate.com/github/jzjzjzj/parse-torrent-name/badges/gpa.svg)](https://codeclimate.com/github/jzjzjzj/parse-torrent-name) -->
-
-# Torrent Parser (parse torrent name fork)
-![Build Status](https://github.com/clausjs/parse-torrent-name/actions/workflows/node.js.yml/badge.svg)
+# Torrent Parser (parse-torrent-name fork)
+![Build Status](https://github.com/clausjs/torrent-parser/actions/workflows/node.js.yml/badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/22c7b9ac7a879e113863/maintainability)](https://codeclimate.com/github/clausjs/torrent-parser/maintainability)
 
 Parses torrent name of a movie or TV show.
 
