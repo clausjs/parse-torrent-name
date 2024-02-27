@@ -1,6 +1,6 @@
 {
   "name": "parse-torrent-name",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "description": "Parses torrent name of a movie or TV show.",
   "repository": {
     "type": "git",
@@ -15,10 +15,13 @@
     "parse torrent name"
   ],
   "devDependencies": {
-    "tape": "^3.0.1",
-    "tap-spec": "^1.0.1"
+    "tap-spec": "^1.0.1",
+    "tape": "^3.0.1"
   },
   "scripts": {
-    "test": "tape test.js | tap-spec"
+    "test": "tape test/test.js | tap-spec"
+  },
+  "dependencies": {
+    "ajv": "^8.12.0"
   }
 }
