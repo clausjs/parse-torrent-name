@@ -29,11 +29,6 @@ Parses torrent name of a movie or TV show.
 - widescreen
 - year
 
-## Install:
-```bash
-$ npm install parse-torrent-name
-```
-
 ## Usage:
 ```javascript
 var ptn = require('parse-torrent-name');
